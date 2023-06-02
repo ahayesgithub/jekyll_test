@@ -11,3 +11,5 @@ Welcome to My Home Page
 - With timeago filter - {{ date | timeago }}
 
 Hello! This is a test.
+
+Hello again! This is another test.
